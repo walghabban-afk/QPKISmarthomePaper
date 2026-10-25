@@ -1,0 +1,1 @@
+Source used: QPKI_SmartHome_Revised_R3_Fixes_Red.docx, revised into QPKI_SmartHome_Revised_R3_Fixes_Final.docx during the reproducibility audit. This archive is a reference model; it does not include the original v4 filename mentioned in the earlier rebuttal report.
